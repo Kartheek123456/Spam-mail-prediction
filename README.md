@@ -26,7 +26,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn nltk
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/spam-mail-prediction.git
+git clone https://github.com/Kartheek123456/spam-mail-prediction.git
 cd spam-mail-prediction
 ```
 
